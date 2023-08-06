@@ -1,0 +1,44 @@
+.text{
+    font-family: Georgia, verdana,serif ;
+    font-size: 22px;
+    font-weight: 540;
+    background-color:rgb(229, 168, 71);
+    color:rgb(0, 0, 0);
+}
+.text-font{
+    font-size: 44px;
+    font-weight: 800;
+    color:azure;
+    background-color: rgb(208, 56, 10);
+    font-family: Georgia, verdana,serif ;
+}
+.image-dim{
+    width: 450px;
+    height: auto;
+}
+.text-describe,.mini-text{
+    font-size: 22px;
+    font-family: Georgia, verdana,serif ;
+    font-weight: 700;
+    color:rgb(165, 19, 19);
+    background-color: rgba(132, 220, 191, 0.848);
+    
+}
+#description{
+    font-size: 26px;
+}
+.para , .list-family{
+    font-family: Georgia, verdana,serif ;
+    font-size: 18px;
+}
+#home-link{
+    font-family: Georgia, verdana,serif ;
+    font-size:16px;
+    color:yellow;
+    background-color: black;
+}
+.mini-text{
+    font-size:20px;
+    color:blanchedalmond;
+    background-color: rgb(129, 48, 48);
+}
