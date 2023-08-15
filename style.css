@@ -2,8 +2,12 @@
     font-family: Georgia, verdana,serif ;
     font-size: 22px;
     font-weight: 540;
-    background-color:rgb(229, 168, 71);
-    color:rgb(0, 0, 0);
+    color:whitesmoke;
+    background-color: black;
+    border-style: dashed;
+    border-width: 3px;
+    border-color: yellow;
+  
 }
 .text-font{
     font-size: 44px;
@@ -11,6 +15,10 @@
     color:azure;
     background-color: rgb(208, 56, 10);
     font-family: Georgia, verdana,serif ;
+    text-align: center;
+    margin:30px;
+    padding:20px;
+    margin-top:10px
 }
 .image-dim{
     width: 450px;
@@ -41,4 +49,28 @@
     font-size:20px;
     color:blanchedalmond;
     background-color: rgb(129, 48, 48);
+}
+.container{
+    width:800px;
+    margin:100px auto;
+    padding:30px;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: rebeccapurple;
+    background-color: mediumturquoise;
+}
+.list-container{
+    width:500px;
+    
+    margin:auto;
+}
+.ul
+{
+    
+    margin:20px;
+}
+span{
+    display: inline-block;
+    margin:5px;
+    padding:5px;
 }
